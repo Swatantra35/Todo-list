@@ -2,6 +2,7 @@
 This is a simple To-Do List application built using Python. It allows users to add, view, update, and delete tasks, making it easy to manage daily activities and boost productivity. This project is ideal for beginners to understand the basics of file handling, functions, and user input in Python.
 
 #🔧 Features
+
 1.✅ Add new tasks
 
 2.📋 View all tasks
